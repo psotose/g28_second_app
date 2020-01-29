@@ -1,2 +1,2 @@
 # README
-Link to Heroku https://fathomless-shore-16641.herokuapp.com/
+You can visit the app in Heroku https://fathomless-shore-16641.herokuapp.com/
